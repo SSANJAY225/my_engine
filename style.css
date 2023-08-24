@@ -380,8 +380,8 @@ button, a, input {
   justify-content: center;
   align-items: center;
   outline: none;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   text-decoration: none;
   border-radius: 100%;
   background: #fff;
@@ -721,9 +721,9 @@ a:hover {
   background: rgba(0, 0, 0, .5);
 }
 .parent {
-  border: 1px solid black;
+  border: 1px solid rgb(12, 12, 12);
   margin: 1rem;
-  padding: 2rem 2rem;
+  padding: 2cm 2cm;
   text-align: center;
 }
 .child {
